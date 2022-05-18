@@ -29,10 +29,10 @@
   
   
   
-  h1{
+  #titulo1{
       font-family: 'Inter', sans-serif;
       font-size: 30px;
-      margin-left: 149px;
+      margin-left: 85px;
       
   }
   
@@ -221,9 +221,9 @@
       justify-content: left;
       margin-right: 200px;
       margin-top: 10px;
-      position: absolute;
+      position: relative;
       top: 122px;
-      left:1000px;
+      left:925px;
 
 
       
@@ -245,7 +245,7 @@
       width: 246px;
       height: 50px;
       border-color: #ffffff;
-      border-radius: 8px;
+      
      
       
   
@@ -257,7 +257,7 @@
       width: 96px;
       height: 50px;
       color: #F5F5F5;
-      border-radius: 4px;
+      
   }
   
   
@@ -267,7 +267,7 @@
   }
   
   .carrinhoCompras{
-  position: absolute;
+  position: relative;
   width: 347px;
   height: 50px;
   top: 202px;
@@ -277,7 +277,7 @@
   text-align: center;
   margin-top: 10px;
   height: 50px;
-  left: 1000px;
+  left: 925px;
   font-weight: 700;
   font-size: 18px;
   line-height: 50px;
@@ -386,6 +386,7 @@
       justify-content: space-between;
       margin: 0 14px;
       height: 30px;
+      
   }
   
   .containerSoma{
