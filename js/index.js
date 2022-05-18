@@ -129,7 +129,7 @@ function renderzarVitrine(array) {
       function atualizarCarrinho(event) {
       liCarrinho.style.display= "none"
       arrayCarrinho.pop(arrayCarrinho[i])
-      qtdArray.innerText = arrayCarrinho.length
+      quantidadeArray.innerText = arrayCarrinho.length
       soma(arrayCarrinho)
       valorSoma.innerText=soma(arrayCarrinho)
 
