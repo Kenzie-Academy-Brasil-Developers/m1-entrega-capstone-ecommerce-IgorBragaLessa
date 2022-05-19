@@ -132,7 +132,7 @@ function renderzarVitrine(array) {
       quantidadeArray.innerText = arrayCarrinho.length
       soma(arrayCarrinho)
       valorSoma.innerText=soma(arrayCarrinho)
-
+      
 
 
     }
