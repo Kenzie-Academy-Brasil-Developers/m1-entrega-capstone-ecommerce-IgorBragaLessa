@@ -1,6 +1,6 @@
 const vitrine = document.querySelector(".products-section")
 const carrinho = document.querySelector(".productCarrinho")
-const carrinho2 = document.querySelector(".carrinho")
+const carrinho2 = document.querySelector(".lista-carrinho")
 
 function soma(array){
   let somaArray=0
